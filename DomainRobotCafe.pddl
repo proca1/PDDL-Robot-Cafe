@@ -1,6 +1,5 @@
 ﻿
-;; Realizzato da: EMANUELE PROCACCI
-;;                MATTEO PARROCCINI
+;; Realizzato da: EMANUELE PROCACCI, Department of Computer Science - University of Perugia
 
 (define (domain robot-cafe)
   (:requirements :strips)
